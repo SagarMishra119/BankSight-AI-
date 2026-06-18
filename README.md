@@ -1,5 +1,7 @@
 # 🏦 BankSight AI – Deposit Subscription Predictor
 
+Live Demo : https://banksight-ai.onrender.com/
+
 A modern, interactive **Machine Learning-powered Streamlit web application** that predicts whether a bank customer is likely to subscribe to a **Term Deposit** based on demographic, financial, and marketing campaign data.
 
 The application features a premium glassmorphism UI, real-time predictions, interactive analytics, and model insights.
